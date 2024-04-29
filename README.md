@@ -1,6 +1,9 @@
 # BlogItUp
 
 BlogItUp is a full-stack blogging application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides users with a platform to create, publish, and manage their blog posts.
+
+
+
 ![image](https://github.com/pratham9770/BlogItUp/assets/118453138/f1691118-cd03-4443-a1e4-f8545823d0b0)
 ![image](https://github.com/pratham9770/BlogItUp/assets/118453138/49cb3849-ab0f-4e3e-beb6-d153d4a12b9c)
 ![image](https://github.com/pratham9770/BlogItUp/assets/118453138/c1272235-8e36-49b5-b53d-ee85a6f75494)
